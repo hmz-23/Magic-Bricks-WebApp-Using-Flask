@@ -1,1 +1,1 @@
-# Magic-Bricks-WebApp-Using-Flassk
+# Magic Bricks WebApp Using Flask
